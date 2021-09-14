@@ -1,0 +1,1 @@
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SynixDev&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=ff0000text_color=9f9f9f&bg_color=232323" alt="SynixDev's stats" />    
